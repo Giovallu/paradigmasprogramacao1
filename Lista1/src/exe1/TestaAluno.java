@@ -1,5 +1,4 @@
-import exe1.Aluno;
-import javax.swing.*;
+package exe1;
 
 public class TestaAluno {
     public static void main(String[] args) {
